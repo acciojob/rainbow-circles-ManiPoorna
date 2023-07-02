@@ -2,14 +2,14 @@
 #outer {
 	height: 300px;
 	width:300px;
-	background: rgb(244,165,0);
+	background: rgb(255, 165, 0);
 	border-radius : 50%;
 	position : relative;
 }
 #middle{
 	height: 200px;
 	width:200px;
-	background: #ffa500;
+	background: rgb(0, 128, 0);
 	border-radius : 50%;
 	position : absolute;
 	top : 25px;
@@ -18,7 +18,7 @@
 #inner{
 	height: 100px;
 	width:100px;
-	background: #ffff00;
+	background: rgb(128, 0, 128);
 	border-radius : 50%;
 /* 	position : absolute; */
 	margin: 25px;
