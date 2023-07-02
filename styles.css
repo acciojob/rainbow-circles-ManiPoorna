@@ -2,13 +2,13 @@
 #outer {
 	height: 300px;
 	width:300px;
-	background: #ff0000;
+	background: rgb(244,165,0);
 	border-radius : 50%;
 	position : relative;
 }
 #middle{
-	height: 250px;
-	width:250px;
+	height: 200px;
+	width:200px;
 	background: #ffa500;
 	border-radius : 50%;
 	position : absolute;
@@ -16,13 +16,12 @@
 	left : 25px;
 }
 #inner{
-	height: 200px;
-	width:200px;
+	height: 100px;
+	width:100px;
 	background: #ffff00;
 	border-radius : 50%;
-	position : absolute;
-	top : 25px;
-	left : 25px;
+/* 	position : absolute; */
+	margin: 25px;
 }
 #green{
 	height: 150px;
