@@ -1,1 +1,53 @@
 /*  your css code here. If applicable */
+#outer {
+	height: 300px;
+	width:300px;
+	background: #ff0000;
+	border-radius : 50%;
+	position : relative;
+}
+#middle{
+	height: 250px;
+	width:250px;
+	background: #ffa500;
+	border-radius : 50%;
+	position : absolute;
+	top : 25px;
+	left : 25px;
+}
+#inner{
+	height: 200px;
+	width:200px;
+	background: #ffff00;
+	border-radius : 50%;
+	position : absolute;
+	top : 25px;
+	left : 25px;
+}
+#green{
+	height: 150px;
+	width:150px;
+	background: #008000;
+	border-radius : 50%;
+	position : absolute;
+	top : 25px;
+	left : 25px;
+}
+#blue{
+	height: 100px;
+	width:100px;
+	background: #0000ff;
+	border-radius : 50%;
+	position : absolute;
+	top : 25px;
+	left : 25px;
+}
+#purple{
+	height: 50px;
+	width:50px;
+	background: #800080;
+	border-radius : 50%;
+	position : absolute;
+	top : 25px;
+	left : 25px;
+}
